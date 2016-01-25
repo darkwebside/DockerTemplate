@@ -17,3 +17,11 @@ on your computer. Available for both Windows and Mac, the Toolbox installs Docke
 Once installed if you'll have two main apps and both of them serve for conect and add docker 
 
 ![image apps docker](images/dockerapps.jpg)
+
+and after you have clicked on Docker terminal you'll have a vitual machine who acts as engine to docker and it 
+will accept all docker command to create new containers.
+This is due to lack of support in Mac's and Windows for running linux comands needed by docker.
+
+![image consle docker](images/dockerconsole.jpg)
+
+
